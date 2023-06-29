@@ -7,6 +7,7 @@
 * Email: Danilkyritenko@gmail.com
 * GitHub: DestordY
 * VK: [https://vk.com/destord]
+
 ### About Me
 ---
 Today, I want to share with you my ambitions and reasons why I aspire to change my career path and pursue a career in IT, specifically in JavaScript development.
